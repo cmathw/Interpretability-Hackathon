@@ -6,4 +6,5 @@ This repo contains the report and code that I created during Apart Research's In
 * Neel Nanda: “SERI_MATS_IOI_Demo”, 2022; https://colab.research.google.com/drive/1mL4KlTG7Y8DmmyIlE26VjZ0mofdCYVW6
 * Stanford University. “Mistral”, 2022. https://github.com/stanford-crfm/mistral
 * Neel Nanda: “Easy Transformer Demo”, 2022: https://colab.research.google.com/github/neelnanda-io/Easy-Transformer/blob/main/EasyTransformer_Demo.ipynb
-* Redwood Research: “Easy Transformer”, 2022: https://github.com/redwoodresearch/Easy-Transformer 
+* Redwood Research: “Easy Transformer”, 2022: https://github.com/redwoodresearch/Easy-Transformer
+* Neel Nanda: “Easy Transformer”, 2022: https://github.com/neelnanda-io/Easy-Transformer 
